@@ -1,0 +1,6 @@
+module Pods_MultipleTargetsUsers {
+  umbrella header "Pods-MultipleTargetsUsers-umbrella.h"
+
+  export *
+  module * { export * }
+}

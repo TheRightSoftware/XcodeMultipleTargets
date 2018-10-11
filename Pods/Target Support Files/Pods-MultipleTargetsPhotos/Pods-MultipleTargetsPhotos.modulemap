@@ -1,0 +1,6 @@
+module Pods_MultipleTargetsPhotos {
+  umbrella header "Pods-MultipleTargetsPhotos-umbrella.h"
+
+  export *
+  module * { export * }
+}
